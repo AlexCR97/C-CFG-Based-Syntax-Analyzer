@@ -1,0 +1,18 @@
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\bin\Debug\CFGParser.exe
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\bin\Debug\CFGParser.pdb
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\CFGParser.csprojAssemblyReference.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\CFGParser.MainForm.resources
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\CFGParser.Properties.Resources.resources
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\CFGParser.csproj.GenerateResource.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\CFGParser.csproj.CoreCompileInputs.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\CFGParser.exe
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\CFGParser.pdb
+C:\Users\carp_\source\repos\CFGParser\Earley\bin\Debug\CFGParser.exe
+C:\Users\carp_\source\repos\CFGParser\Earley\bin\Debug\CFGParser.pdb
+C:\Users\carp_\source\repos\CFGParser\Earley\obj\Debug\CFGParser.csprojAssemblyReference.cache
+C:\Users\carp_\source\repos\CFGParser\Earley\obj\Debug\CFGParser.MainForm.resources
+C:\Users\carp_\source\repos\CFGParser\Earley\obj\Debug\CFGParser.Properties.Resources.resources
+C:\Users\carp_\source\repos\CFGParser\Earley\obj\Debug\CFGParser.csproj.GenerateResource.cache
+C:\Users\carp_\source\repos\CFGParser\Earley\obj\Debug\CFGParser.csproj.CoreCompileInputs.cache
+C:\Users\carp_\source\repos\CFGParser\Earley\obj\Debug\CFGParser.exe
+C:\Users\carp_\source\repos\CFGParser\Earley\obj\Debug\CFGParser.pdb

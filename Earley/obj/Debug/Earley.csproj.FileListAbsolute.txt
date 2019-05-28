@@ -1,0 +1,26 @@
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\bin\Debug\Earley.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\bin\Debug\Earley.pdb
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.MainForm.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.Properties.Resources.resources
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.csproj.GenerateResource.Cache
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.exe
+C:\Users\Pate\Documents\Visual Studio 2008\Projects\Earley\Earley\obj\Debug\Earley.pdb
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\bin\Debug\Earley.exe
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\bin\Debug\Earley.pdb
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.csprojAssemblyReference.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.MainForm.resources
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.Properties.Resources.resources
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.csproj.GenerateResource.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.csproj.CoreCompileInputs.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.exe
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing\C#\Earley\obj\Debug\Earley.pdb
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\bin\Debug\Earley.exe
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\bin\Debug\Earley.pdb
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\Earley.csprojAssemblyReference.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\Earley.MainForm.resources
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\Earley.Properties.Resources.resources
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\Earley.csproj.GenerateResource.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\Earley.csproj.CoreCompileInputs.cache
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\Earley.exe
+C:\Users\carp_\source\repos\Earley Parser - A Simplified Model for Natural Language Processing - Copy\C#\Earley\obj\Debug\Earley.pdb
